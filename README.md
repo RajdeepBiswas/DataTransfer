@@ -2,7 +2,7 @@
 Generic HDFS data and Hive Database transfer automation between any environment(Production/QA/Development) utilizing Amazon S3 storage
 
 
-Synopsis:
+Ó2 Synopsis:
 Exporting and importing data between different layers of environment like production, QA and development is a recurring task.
 Due to security considerations this environments cannot talk to each other. Hence we are using Amazon S3 storage as an intermediate storage point for transferring data seamlessly across environments.
 The automation of this task is expected to save close to 4 hours of manual intervention per occurrence.
